@@ -56,6 +56,7 @@ public class Modulo {
     }
      
     // Getters y Setters
+    // Getters y Setters2
 
     public String getNombre() {
         return nombre;
