@@ -53,7 +53,7 @@ public class Alumnoe {
         System.out.println("Dni: " +  this.dni);
         System.out.println("Dirección: " + this.direccion +  "  Teléfono: " + this.telefono );
         System.out.println("Módulos matriculados:");
-        
+        System.out.println("Módulos matriculados2:");
         for (int i=0;i<modulos.length;i++){
            
             System.out.println( (i+1) + "º Módulo: " + modulos[i].getNombre() + " Curso: " + modulos[i].getCurso());   
