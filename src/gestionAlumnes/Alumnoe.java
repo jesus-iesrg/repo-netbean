@@ -88,10 +88,6 @@ public class Alumnoe {
         return apellidos;
     }
 
-    public void setApellidos(String apellidos) {
-        this.apellidos = apellidos;
-    }
-
     public String getDireccion() {
         return direccion;
     }
